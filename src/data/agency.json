@@ -1,0 +1,211 @@
+{
+  "header": {
+    "title": "PT. Jaya Motors",
+    "subtitle": "'Semakin Di Depan'",
+    "srcImage": "images/agency-logo.png",
+    "button": {
+      "label": "Find Out More",
+      "icon": "fa fa-search",
+      "targetSection": "about"
+    }
+  },
+
+  "navbar": {
+    "brand": "<span class='text-primary'>JAYA</span> MOTORS",
+    "srcLogo": "images/agency-logo-small.png",
+    "menuOptions": [
+      {
+        "id": "about",
+        "label": "About",
+        "icon": "fa-solid fa-file"
+      },
+
+      {
+        "id": "portfolio",
+        "label": "Provided cars",
+        "icon": "fa-solid fa-camera"
+      },
+      {
+        "id": "team",
+        "label": "Owner",
+        "icon": "fa-solid fa-user"
+      },
+      {
+        "id": "reviews",
+        "label": "Reviews",
+        "icon": "fa-solid fa-comment"
+      }
+    ]
+  },
+
+  "about": {
+    "id": "about",
+    "title": "<span class='text-primary'>About</span> Us",
+    "subtitle": "Get to know more about the us!",
+    "content": {
+      "image": "images/agency-logo.png",
+      "paragraphs": [
+        "Selamat datang di Jaya Motors, destinasi terpercaya untuk kebutuhan mobil Anda! Sebagai perusahaan yang berfokus pada penjualan mobil, kami berdedikasi untuk memberikan pengalaman berbelanja yang luar biasa dan menjawab kebutuhan Anda dengan layanan terbaik.",
+        "Jaya Motors telah menjadi pemimpin di industri otomotif selama lebih dari dua dekade. Kami bangga menawarkan koleksi mobil berkualitas tinggi dari berbagai merek terkenal di dunia, termasuk mobil sedans, SUV, hatchback, dan kendaraan listrik. Dengan jajaran model terbaru dan terlengkap, kami siap memenuhi kebutuhan dan preferensi kendaraan Anda.",
+        "Kami memahami betapa pentingnya keandalan dan kualitas dalam memilih mobil. Oleh karena itu, setiap kendaraan yang kami jual telah melalui inspeksi yang ketat untuk memastikan kinerja optimal dan keamanan penggunaan. Kami bekerja sama dengan dealer resmi dan mitra terpercaya kami untuk menghadirkan mobil-mobil berkualitas terbaik kepada pelanggan kami."
+      ]
+    },
+    "button": {
+      "label": "Download Now!",
+      "icon": "fa-solid fa-download",
+      "href": "https://github.com/ryanbalieiro/foxy-template"
+    }
+  },
+
+
+  "portfolio": {
+    "id": "portfolio",
+    "title": "<span class='text-primary'>Provided</span> Cars",
+    "subtitle": "Get to know our amazing cars!",
+    "projects": [
+      {
+        "title": "TOYOTA",
+        "category": "SUPRA MK5",
+        "srcImage": "images/portfolio/portfolio-1.png",
+        "description": [
+          "Toyota Supra generasi kelima, yang dikenal sebagai Mk5 atau A90, adalah mobil sport yang sangat dinantikan yang diluncurkan pada tahun 2019. Berikut adalah beberapa penjelasan tentang Toyota Supra Mk5:",
+          "Kolaborasi dengan BMW: Toyota Supra Mk5 dikembangkan melalui kolaborasi antara Toyota dan BMW. Mobil ini berbagi platform dan banyak komponen dengan BMW Z4 generasi terbaru. Mesin yang digunakan adalah mesin BMW yang kuat dan teruji.",
+          "Desain Eksterior yang Agresif: Supra Mk5 memiliki desain eksterior yang agresif dan aerodinamis. Dilengkapi dengan garis-garis tajam, grill depan yang besar, lampu LED yang ramping, dan bentuk atap yang khas, Supra Mk5 memancarkan kesan kecepatan dan gaya yang dinamis.",
+          "Performa yang Mengesankan: Toyota Supra Mk5 didukung oleh mesin turbocharged 3.0-liter inline enam silinder yang menghasilkan daya sekitar 335 tenaga kuda dan torsi sekitar 365 pound-kaki (tergantung pada pasar). Transmisi otomatis delapan percepatan dari ZF digunakan dalam mobil ini. Supra Mk5 juga dilengkapi dengan sistem suspensi adaptif, diferensial terbatas elektronik, dan sistem rem canggih untuk memberikan performa yang mengesankan.",
+          "Handling yang Presisi: Dengan bobot yang seimbang, pusat gravitasi yang rendah, dan sistem suspensi yang disetel dengan baik, Toyota Supra Mk5 menawarkan handling yang presisi dan responsif. Mobil ini memberikan pengalaman berkendara yang sporty dan menyenangkan, baik di jalan raya maupun di sirkuit.",
+          "Teknologi dan Fitur Modern: Supra Mk5 dilengkapi dengan berbagai fitur teknologi modern, termasuk sistem infotainment dengan layar sentuh, konektivitas smartphone, navigasi GPS, sistem audio berkualitas tinggi, dan fitur keamanan canggih seperti pengereman darurat otomatis, blind spot monitoring, dan lane departure warning."
+        ]
+      },
+
+      {
+        "title": "TOYOTA",
+        "category": "MR2",
+        "srcImage": "images/portfolio/portfolio-2.png",
+        "description": [
+          "Toyota MR2 adalah mobil sport kompak yang diproduksi oleh Toyota. Berikut adalah penjelasan tentang Toyota MR2:",
+          "Generasi dan Desain: Toyota MR2 telah mengalami tiga generasi. Generasi pertama (AW11) diproduksi antara tahun 1984 dan 1989, generasi kedua (SW20) antara tahun 1989 dan 1999, dan generasi ketiga (ZZW30) antara tahun 1999 dan 2007. Setiap generasi memiliki desain yang unik, tetapi tetap mempertahankan konfigurasi mesin tengah yang menjadi ciri khas MR2.",
+          "Mesin dan Penggerak Roda: Toyota MR2 biasanya dilengkapi dengan mesin empat silinder. Generasi pertama memiliki pilihan mesin 1.6L dan 1.8L, sedangkan generasi kedua dan ketiga dilengkapi dengan mesin 2.0L. Mesin ditempatkan di tengah mobil untuk memberikan keseimbangan berat yang baik dan meningkatkan performa. MR2 generasi pertama dan kedua memiliki penggerak roda belakang, sementara MR2 generasi ketiga dilengkapi dengan penggerak roda depan.",
+          "Handling yang Menyenangkan: Dengan berat yang seimbang dan posisi mesin di tengah, Toyota MR2 menawarkan handling yang responsif dan presisi. Mobil ini dikenal karena kemampuan bermanuvernya yang baik dan kelincahannya dalam tikungan. Pengendara seringkali merasakan koneksi yang kuat antara mobil dan jalan, memberikan pengalaman berkendara yang menyenangkan.",
+          "Desain Interior dan Fitur: Toyota MR2 umumnya memiliki interior yang fungsional dan minimalis. Generasi terbaru dilengkapi dengan fitur-fitur modern seperti sistem audio, AC, dan beberapa opsi kenyamanan lainnya. Namun, fokus MR2 lebih pada pengalaman mengemudi yang murni dan performa daripada kemewahan dan kenyamanan yang berlebihan.",
+          "Komunitas dan Kepopuleran: Toyota MR2 telah membangun komunitas penggemar yang setia di seluruh dunia. Mobil ini terkenal di kalangan penggemar mobil sport karena performa yang baik, handling yang superior, dan harga yang terjangkau. MR2 juga sering menjadi pilihan bagi mereka yang ingin memiliki pengalaman mengemudi yang sporty tanpa harus mengeluarkan biaya yang besar."
+        ]
+      },
+
+      {
+        "title": "TOYOTA",
+        "category": "FT86",
+        "srcImage": "images/portfolio/portfolio-3.png",
+        "description": [
+          "Toyota 86, juga dikenal sebagai Subaru BRZ di beberapa pasar, adalah mobil sport kompak yang diproduksi oleh Toyota dalam kemitraan dengan Subaru. Berikut adalah penjelasan tentang Toyota 86:",
+          "Desain yang Sporty: Toyota 86 memiliki desain yang menggabungkan gaya retro dan modern. Eksteriornya mengedepankan garis-garis tajam, gril depan lebar, lampu LED yang ramping, dan atap yang rendah. Desainnya yang proporsional dengan panjang kap mesin yang pendek dan posisi roda yang ekstrem membuatnya terlihat sporty dan agresif.",
+          "Mesin dan Performa: Toyota 86 didukung oleh mesin 2.0L empat silinder horizontally-opposed (boxer) yang dikembangkan oleh Subaru. Mesin ini menghasilkan sekitar 200 tenaga kuda (tergantung pada versi dan pasar) dan dikombinasikan dengan transmisi manual enam percepatan atau transmisi otomatis dengan paddle shift. Penggerak roda belakang dan bobot yang seimbang memberikan performa yang lincah dan handling yang responsif.",
+          "Keseimbangan dan Handling: Toyota 86 dirancang dengan fokus pada keseimbangan dan handling yang superior. Posisi mesin yang rendah dan di tengah mobil, serta pusat gravitasi yang rendah, memberikan kelincahan dan kestabilan saat mengemudi. Sistem suspensi yang disetel dengan baik, pengaturan kemudi yang responsif, dan diferensial terbatas memberikan pengalaman mengemudi yang menyenangkan dan menggugah adrenalin.",
+          "Kabin yang Terfokus pada Pengemudi: Interior Toyota 86 didesain untuk memberikan pengalaman mengemudi yang fokus dan terhubung dengan jalan. Interior didominasi oleh material bertekstur, kursi sport yang nyaman, dan kemudi yang terasa baik di tangan. Kabin yang terfokus pada pengemudi memberikan kontrol yang mudah dijangkau dan visibilitas yang baik.",
+          "Komunitas Penggemar dan Modifikasi: Toyota 86 telah menjadi populer di kalangan penggemar mobil sport dan menjadi basis bagi komunitas yang dinamis. Mobil ini sering dipilih oleh mereka yang ingin mengambil bagian dalam modifikasi dan personalisasi mobil, dengan berbagai pilihan peningkatan performa dan aksesori aftermarket yang tersedia."
+        ]
+      },
+
+      {
+        "title": "TOYOTA",
+        "category": "AE86",
+        "srcImage": "images/portfolio/portfolio-4.png",
+        "description": [
+          "Toyota AE86, juga dikenal sebagai Toyota Corolla Levin atau Sprinter Trueno, adalah mobil sport legendaris yang diproduksi oleh Toyota pada tahun 1983 hingga 1987. Berikut adalah penjelasan tentang Toyota AE86:",
+          "Mesin dan Penggerak Roda: Toyota AE86 dilengkapi dengan mesin 1.6L empat silinder berkode 4A-GE. Mesin ini menggunakan teknologi DOHC dan karburator ganda, yang pada zamannya dianggap canggih dan memberikan kinerja yang baik. Toyota AE86 adalah salah satu mobil sport terakhir dengan penggerak roda belakang dari era mobil kompak Toyota.",
+          "Handling yang Istimewa: Toyota AE86 terkenal karena handling yang istimewa. Bobot yang seimbang, pengaturan suspensi yang tepat, dan penggerak roda belakang memberikan kelincahan, responsif, dan stabilitas yang luar biasa saat dikendarai. Mobil ini sangat populer di kalangan penggemar drifting dan autocross.",
+          "Desain Eksterior yang Klasik: AE86 menampilkan desain eksterior yang klasik dan ikonik. Terdapat dua versi bodi yang tersedia: Corolla Levin dengan lampu depan persegi dan Sprinter Trueno dengan lampu depan bundar. Kedua versi memiliki gaya bodi yang ringan dan aerodinamis, serta tanda khas seperti spoiler belakang dan grafis hitam-putih yang mencolok di sisi.",
+          "Interior yang Sederhana: Toyota AE86 memiliki interior yang sederhana dan fungsional. Kursi sport yang nyaman, kemudi yang langsing, dan panel instrumen yang sederhana memberikan pengalaman mengemudi yang terfokus pada pengemudi. Meskipun tidak terlalu mewah, desain interior AE86 mencerminkan kepraktisan dan orientasi pengemudi.",
+          "Kepopuleran dalam Budaya Pop: Toyota AE86 mendapatkan popularitas yang signifikan melalui media, terutama melalui manga dan anime populer 'Initial D'. Dalam cerita tersebut, mobil ini menjadi simbol mobil sport yang dikendarai oleh karakter utama dan dikenal dengan julukan 'Hachi-Roku' yang berarti 'delapan enam' dalam bahasa Jepang, merujuk pada kode model AE86."
+        ]
+      },
+
+      {
+        "title": "TOYOTA",
+        "category": "SUPRA MK4",
+        "srcImage": "images/portfolio/portfolio-5.png",
+        "description": [
+          "Toyota Supra MK4, juga dikenal sebagai A80 Supra, adalah salah satu generasi ikonik dari mobil sport Toyota Supra yang diproduksi antara tahun 1993 dan 2002. Berikut adalah penjelasan tentang Toyota Supra MK4:",
+          "Desain yang Menggoda: Toyota Supra MK4 memiliki desain eksterior yang menggoda dengan bentuk yang aerodinamis dan garis-garis yang tajam. Desainnya yang khas termasuk lampu depan pop-up, atap Targa yang dapat dilepas, dan spoiler belakang yang memberikan penampilan yang agresif dan sporty.",
+          "Mesin yang Kuat: Toyota Supra MK4 ditenagai oleh mesin turbocharged 3.0-liter inline enam silinder berkode 2JZ-GTE. Mesin ini sangat terkenal karena daya tahan, potensi modifikasi yang besar, dan kemampuan untuk menghasilkan tenaga yang mengesankan. Versi AS dari Supra MK4 menghasilkan sekitar 320 tenaga kuda dan 315 pound-kaki torsi (tergantung pada tahun produksi), namun dengan modifikasi yang tepat, mesin ini dapat menghasilkan tenaga yang jauh lebih besar.",
+          "Performa yang Hebat: Supra MK4 adalah mobil sport yang sangat cepat dan mampu memberikan akselerasi yang mengesankan. Dalam tes akselerasi, Supra MK4 mampu mencapai 0-60 mph dalam waktu kurang dari 5 detik. Kecepatan tertinggi yang tercapai adalah sekitar 155 mph (terbatas secara elektronik).",
+          "Penggerak Roda Belakang: Toyota Supra MK4 menggunakan penggerak roda belakang, yang memberikan kelincahan dan handling yang superior. Keseimbangan bobot yang baik dan pengaturan suspensi yang cermat memastikan performa yang presisi dan stabilitas yang baik saat melewati tikungan.",
+          "Interior yang Nyaman: Meskipun fokus utama Supra MK4 adalah performa, interior mobil ini juga menawarkan kenyamanan. Dilengkapi dengan kursi sport yang nyaman, material yang berkualitas, dan fitur-fitur modern seperti sistem audio, AC, dan lainnya, Supra MK4 menawarkan pengalaman mengemudi yang menyenangkan dan nyaman."
+        ]
+      },
+
+      {
+        "title": "TOYOTA",
+        "category": "CELICA",
+        "srcImage": "images/portfolio/portfolio-6.png",
+        "description": [
+
+        "Toyota Celica adalah mobil sport kompak yang diproduksi oleh Toyota dari tahun 1970 hingga 2006. Berikut adalah penjelasan tentang Toyota Celica:",
+        "Generasi dan Desain: Toyota Celica telah melalui tujuh generasi selama produksinya. Setiap generasi memiliki desain yang unik, tetapi umumnya Celica dikenal dengan gaya eksterior yang sporty dan aerodinamis. Beberapa generasi Celica memiliki lampu depan pop-up yang menjadi ciri khasnya. Desainnya mengalami evolusi dari gaya retro hingga futuristik seiring berjalannya waktu.",
+        "Mesin dan Performa: Toyota Celica dilengkapi dengan berbagai pilihan mesin, mulai dari mesin empat silinder biasa hingga mesin turbocharged yang lebih bertenaga. Performanya bervariasi tergantung pada generasi dan varian tertentu. Beberapa versi Celica, terutama dalam generasi terakhir, menawarkan performa yang cukup impresif dengan akselerasi yang cepat dan handling yang tajam.",
+        "Handling dan Penggerak Roda: Toyota Celica dikenal karena handling yang responsif dan presisi. Sebagian besar generasi Celica dilengkapi dengan penggerak roda depan, tetapi ada juga varian dengan penggerak roda belakang. Suspensi yang disetel dengan baik dan bobot yang seimbang memberikan kestabilan dan kelincahan saat dikendarai, membuat Celica menyenangkan di tikungan.",
+        "Interior dan Fitur: Interior Toyota Celica umumnya didesain dengan orientasi pengemudi dan menyediakan kenyamanan yang cukup. Meskipun ada variasi dalam fitur-fitur yang tersedia tergantung pada generasi dan trim level, umumnya Celica dilengkapi dengan fitur-fitur seperti sistem audio, AC, kursi yang nyaman, dan kontrol yang mudah dijangkau.",
+        "Peran dalam Motorsport: Toyota Celica telah berperan dalam dunia motorsport dengan berbagai partisipasi dalam balapan reli, balap sirkuit, dan balap rally. Celica GT-Four, versi performa tinggi dengan penggerak empat roda, menjadi populer di dunia reli dan berhasil meraih kesuksesan di ajang World Rally Championship (WRC)."
+        ]
+      }
+    ]
+  },
+
+  "team": {
+    "id": "team",
+    "title": "OWNER",
+    "members": [
+      {
+        "name": "Akmal Muhamad Fakhri",
+        "srcAvatar": "images/avatars/person-1.png",
+        "role": "PEMILIK",
+        "quote": "pemilik Jaya Motor, adalah seorang pengusaha yang berbakat dan visioner dalam industri otomotif. Dengan dedikasinya yang tak kenal lelah, ia telah membangun Jaya Motor menjadi dealer terkemuka yang menawarkan berbagai merek kendaraan berkualitas tinggi kepada pelanggan setianya. Keahliannya dalam menjalin kemitraan yang kuat dengan produsen kendaraan terkemuka membuatnya menjadi sosok yang dihormati dalam industri ini. Akmal selalu berusaha memberikan pelayanan terbaik kepada setiap pelanggan, menjadikan Jaya Motor sebagai tempat yang paling dipercaya untuk memenuhi kebutuhan kendaraan mereka."
+      }
+    ]
+  },
+
+  "clients": {
+    "id": "reviews",
+    "title": "Client <span class='text-primary'>Reviews</span>",
+    "subtitle": "What people say about us!",
+
+    "testimonials": [
+      {
+        "organization": "Andre Taulany",
+        "message": "Saya telah menjadi pelanggan setia Jaya Motor selama bertahun-tahun. Mereka memiliki koleksi mobil yang lengkap dan berkualitas tinggi. Staf mereka sangat ramah dan selalu siap membantu. Saya tidak ragu merekomendasikan Jaya Motor kepada siapa pun yang mencari mobil berkualitas."
+      },
+      {
+        "organization": "Raffi Ahmad",
+        "message": "Saya sangat senang dengan layanan yang diberikan oleh Jaya Motor. Mereka memiliki tim yang sangat profesional dan membantu saya dalam memilih mobil yang sesuai dengan kebutuhan saya. Proses pembelian pun berjalan lancar dan saya puas dengan hasilnya."
+      },
+      {
+        "organization": "Atta Halilintar",
+        "message": "Saya baru saja membeli mobil dari Jaya Motor dan pengalaman saya sangat positif. Dari awal hingga akhir, mereka memberikan layanan pelanggan yang luar biasa. Saya merasa dihargai sebagai pelanggan dan mereka juga membantu saya dalam proses pembiayaan. Saya sangat puas dengan Jaya Motor."
+      }
+    ]
+  },
+
+  "footer": {
+    "location": {
+      "title": "Location",
+      "address": "JL.BKR No.7 Bandung"
+    },
+
+    "links": {
+      "title": "Connect With Us",
+      "items": [
+        {"icon": "fa-brands fa-twitter", "href": "https://twitter.com"},
+        {"icon": "fa-brands fa-facebook", "href": "https://facebook.com"},
+        {"icon": "fa-brands fa-linkedin", "href": "https://linkedin.com"},
+        {"icon": "fa-brands fa-spotify", "href": "https://spotify.com"}
+      ]
+    },
+
+    "otherLinks": {
+      "title": "",
+      "items": [
+        {"label": "", "href": "#"},
+        {"label": "", "href": "#"}
+      ]
+    }
+  }
+}
